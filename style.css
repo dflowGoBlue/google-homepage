@@ -1,5 +1,7 @@
-#navbar{
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
+img.align-center{
+	display: block;
+	margin: 0px auto;
+
+	position: relative;
+	top: 200px;
 }
